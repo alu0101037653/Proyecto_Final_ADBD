@@ -26,5 +26,15 @@ Ejemplos de consultas realizadas:
 ![Imagen2](https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Select2.png)
 ![Imagen3](https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Select4.png)
 ![Imagen4](https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Select5.png)
+
 Ejemplo de trigger realizado:
+
 ![Imagen5](https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/ComprobarTrigger.png)
+
+
+Tareas Repartidas entre los miembros del Proyecto:
+
+  AL = Joselin Pérez Pérez
+  KRWP = Katie Wareham Pendry
+  
+  ![Tareas](https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Screenshot%20from%202020-02-02%2021-10-38.png)
