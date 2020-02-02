@@ -38,3 +38,9 @@ Tareas Repartidas entre los miembros del Proyecto:
   KRWP = Katie Wareham Pendry
   
   ![Tareas](https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Screenshot%20from%202020-02-02%2021-10-38.png)
+  
+  ## Otras tareas realizadas
+  
+  Creación workbench (AL)
+  Creación de requisitios BBDD (AL y KRWP)
+  Creación de Modelo E/R (AL y KRWP)
