@@ -18,6 +18,8 @@ https://docs.google.com/document/d/1HVY0Qc0clo0hJ2PhaC2adcfSKgnwoqGOOJ-eIBwNgiE/
 
 Luego, se genera el script de datos y se carga en MYSQL para realizar las consultas y triggers que se consideren necesarios.
 
+https://docs.google.com/document/d/13RJXhv4RM4gSVZ4l_enrjmIbQywsRJtJqFtmKoQomLY/edit?usp=sharing
+
 Ejemplos de consultas realizadas:
 
 Ejemplo de trigger realizado:
