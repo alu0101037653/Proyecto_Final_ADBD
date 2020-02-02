@@ -22,4 +22,9 @@ https://docs.google.com/document/d/13RJXhv4RM4gSVZ4l_enrjmIbQywsRJtJqFtmKoQomLY/
 
 Ejemplos de consultas realizadas:
 
+(Imagen1)[https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Select1.png]
+(Imagen2)[https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Select2.png]
+(Imagen3)[https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Select4.png]
+(Imagen4)[https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/Select5.png]
 Ejemplo de trigger realizado:
+(Imagen5)[https://github.com/alu0101037653/Proyecto_Final_ADBD/blob/master/Imagenes/ComprobarTrigger.png]
